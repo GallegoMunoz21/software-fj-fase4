@@ -1,0 +1,45 @@
+2026-07-21 14:30:11 | INFO    | ===== INICIO DE LA SIMULACIÓN =====
+2026-07-21 14:30:11 | WARNING | OP2 cliente inválido: El email 'laura-correo-malo' no tiene un formato válido.
+2026-07-21 14:30:11 | WARNING | OP3 cliente inválido: El nombre del cliente no puede estar vacío.
+2026-07-21 14:30:11 | INFO    | Reserva #301 confirmada para Cliente #101 - Andres Gallego <andres@softwarefj.com>
+2026-07-21 14:30:11 | INFO    | Reserva #301 procesada. Costo: $89,250.00
+2026-07-21 14:30:11 | INFO    | Fin del procesamiento de la reserva #301 (estado actual: procesada).
+2026-07-21 14:30:11 | INFO    | Reserva #302 confirmada para Cliente #104 - Carlos Ruiz <carlos@softwarefj.com>
+2026-07-21 14:30:11 | INFO    | Reserva #302 procesada. Costo: $327,000.00
+2026-07-21 14:30:11 | INFO    | Fin del procesamiento de la reserva #302 (estado actual: procesada).
+2026-07-21 14:30:11 | ERROR   | Reserva #303 rechazada: El servicio 'Sala en Mantenimiento' no está disponible.
+2026-07-21 14:30:11 | INFO    | Reserva #304 confirmada para Cliente #104 - Carlos Ruiz <carlos@softwarefj.com>
+2026-07-21 14:30:11 | INFO    | Fin del procesamiento de la reserva #304 (estado actual: confirmada).
+2026-07-21 14:30:11 | INFO    | Reserva #305 confirmada para Cliente #101 - Andres Gallego <andres@softwarefj.com>
+2026-07-21 14:30:11 | INFO    | Reserva #305 cancelada.
+2026-07-21 14:30:11 | INFO    | ===== FIN DE LA SIMULACIÓN =====
+2026-07-21 19:44:20 | INFO    | ===== INICIO DE LA SIMULACIÓN =====
+2026-07-21 19:44:20 | WARNING | OP2 cliente inválido: El email 'laura-correo-malo' no tiene un formato válido.
+2026-07-21 19:44:20 | WARNING | OP3 cliente inválido: El nombre del cliente no puede estar vacío.
+2026-07-21 19:44:20 | INFO    | Reserva #301 confirmada para Cliente #101 - Andres Gallego <andres@softwarefj.com>
+2026-07-21 19:44:20 | INFO    | Reserva #301 procesada. Costo: $89,250.00
+2026-07-21 19:44:20 | INFO    | Fin del procesamiento de la reserva #301 (estado actual: procesada).
+2026-07-21 19:44:20 | INFO    | Reserva #302 confirmada para Cliente #104 - Carlos Ruiz <carlos@softwarefj.com>
+2026-07-21 19:44:20 | INFO    | Reserva #302 procesada. Costo: $327,000.00
+2026-07-21 19:44:20 | INFO    | Fin del procesamiento de la reserva #302 (estado actual: procesada).
+2026-07-21 19:44:20 | ERROR   | Reserva #303 rechazada: El servicio 'Sala en Mantenimiento' no está disponible.
+2026-07-21 19:44:20 | INFO    | Reserva #304 confirmada para Cliente #104 - Carlos Ruiz <carlos@softwarefj.com>
+2026-07-21 19:44:20 | INFO    | Fin del procesamiento de la reserva #304 (estado actual: confirmada).
+2026-07-21 19:44:20 | INFO    | Reserva #305 confirmada para Cliente #101 - Andres Gallego <andres@softwarefj.com>
+2026-07-21 19:44:20 | INFO    | Reserva #305 cancelada.
+2026-07-21 19:44:20 | INFO    | ===== FIN DE LA SIMULACIÓN =====
+2026-07-21 19:47:33 | INFO    | ===== INICIO DE LA SIMULACIÓN =====
+2026-07-21 19:47:33 | WARNING | OP2 cliente inválido: El email 'laura-correo-malo' no tiene un formato válido.
+2026-07-21 19:47:33 | WARNING | OP3 cliente inválido: El nombre del cliente no puede estar vacío.
+2026-07-21 19:47:33 | INFO    | Reserva #301 confirmada para Cliente #101 - Andres Gallego <andres@softwarefj.com>
+2026-07-21 19:47:33 | INFO    | Reserva #301 procesada. Costo: $89,250.00
+2026-07-21 19:47:33 | INFO    | Fin del procesamiento de la reserva #301 (estado actual: procesada).
+2026-07-21 19:47:33 | INFO    | Reserva #302 confirmada para Cliente #104 - Carlos Ruiz <carlos@softwarefj.com>
+2026-07-21 19:47:33 | INFO    | Reserva #302 procesada. Costo: $327,000.00
+2026-07-21 19:47:33 | INFO    | Fin del procesamiento de la reserva #302 (estado actual: procesada).
+2026-07-21 19:47:33 | ERROR   | Reserva #303 rechazada: El servicio 'Sala en Mantenimiento' no está disponible.
+2026-07-21 19:47:33 | INFO    | Reserva #304 confirmada para Cliente #104 - Carlos Ruiz <carlos@softwarefj.com>
+2026-07-21 19:47:33 | INFO    | Fin del procesamiento de la reserva #304 (estado actual: confirmada).
+2026-07-21 19:47:33 | INFO    | Reserva #305 confirmada para Cliente #101 - Andres Gallego <andres@softwarefj.com>
+2026-07-21 19:47:33 | INFO    | Reserva #305 cancelada.
+2026-07-21 19:47:33 | INFO    | ===== FIN DE LA SIMULACIÓN =====
